@@ -1,1 +1,1 @@
-alert("=== Staged XSS payload executed ===\nDomain: " + document.domain + "\n\nExfiltrating .ASPXAUTH session cookie to Burp Collaborator");
+alert("=== Staged XSS payload executed ===\nDomain: " + document.domain + "\n\nExfiltrating cookies to Burp Collaborator");
