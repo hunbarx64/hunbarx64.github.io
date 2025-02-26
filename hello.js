@@ -1,1 +1,1 @@
-alert("Hello!");
+alert("=== XSS payload initiated ===\ndo newlines work?");
